@@ -2,7 +2,7 @@
 
 ---
 
-###  Creating and Understanding HTML Tables**
+###  Creating and Understanding HTML Tables
 
 **Project Title:**
 Creating and Understanding HTML Tables
